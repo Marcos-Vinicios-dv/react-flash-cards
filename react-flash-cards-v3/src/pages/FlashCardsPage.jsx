@@ -42,17 +42,6 @@ export default function FlashCardsPage() {
   const [radioButtonShowTitle, setRadioButtonShowTitle] = useState(true);
 
   useEffect(() => {
-    // Promise
-    // apiGetAllFlashCards().then(allFlashCards => {
-    //   setAllCards(allFlashCards);
-    // });
-
-    //IIFE
-    // (async function getAllCards() {
-    //   const backEndAllCards = await apiGetAllFlashCards();
-    //   setAllCards(backEndAllCards);
-    // })();
-
     async function getAllCards() {
       try {
         const backEndAllCards = await apiGetAllFlashCards();
