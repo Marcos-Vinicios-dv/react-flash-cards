@@ -1,4 +1,3 @@
-// Adaptado de: https://stackoverflow.com/a/12646864
 export function helperShuffleArray(array) {
   const shuffledArray = [...array];
 
