@@ -2,6 +2,8 @@
 
 <p>Trata-se de um projeto desenvolvido no bootcamp IGTI, essa aplicação simula um método de estudo utilizando cartões chamados de flashcards. Esse método é baseado num cartão que em um lado possui uma palavra chave e do outro a explicação sobre o que é essa palavra significa.</p>
 
+<p>Nesse app não só utilizamos os flashcards retornados pela API como também existe a possibilidade de editar esses flashcards e adicionar novos falshcards na fake API.</p>
+
 ### Imagem da aplicação:
 <img width="100%" src="https://marcos-dev-portfolio.netlify.app/static/media/Flash-Cards.25d55d21.png" alt="Página Estudo"></img>
 
