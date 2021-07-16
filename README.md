@@ -5,7 +5,7 @@
 <p>Nesse app não só utilizamos os flashcards retornados pela API como também existe a possibilidade de editar esses flashcards e adicionar novos falshcards na fake API.</p>
 
 ### Imagem da aplicação:
-<img width="100%" src="https://marcos-dev-portfolio.netlify.app/static/media/Flash-Cards.25d55d21.png" alt="Página Estudo"></img>
+<img width="100%" src="https://ik.imagekit.io/6s2mndhy9tk/Flash-Cards.25d55d21_syhrqaCLm.png" alt="Página Estudo"></img>
 
 ### Tecnologias utilizadas:
 
